@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1535585993 source:/home/jamil/OneDrive/Fall 18/intro to software engineering/lab sessions/1st lab/gates.c
+	"gates.h"
+
+1535585954 /home/jamil/OneDrive/Fall 18/intro to software engineering/lab sessions/1st lab/gates.h
+	<stdio.h>
+	<stdbool.h>
+
+1536365907 source:/home/jamil/OneDrive/Fall 18/intro to software engineering/lab sessions/1st lab/logic_simulator.c
+	<stdio.h>
+	"gates.h"
+
+1536365872 source:/home/jamil/OneDrive/Fall 18/intro to software engineering/lab sessions/1st lab/logic_simulator_circuit.c
+	<stdio.h>
+	"gates.h"
+

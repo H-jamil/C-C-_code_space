@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1533740023 source:/home/jamil/Documents/Codes/CodeBlocks/author/Author.cpp
+	<iostream>
+	"Author.h"
+
+1533740023 /home/jamil/Documents/Codes/CodeBlocks/author/Author.h
+	<string>
+
+1533740023 source:/home/jamil/Documents/Codes/CodeBlocks/author/main.cpp
+	<iostream>
+	"Author.h"
+

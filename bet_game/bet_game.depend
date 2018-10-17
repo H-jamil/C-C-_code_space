@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529326519 source:/home/jamil/Documents/Codes/CodeBlocks/bet_game/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

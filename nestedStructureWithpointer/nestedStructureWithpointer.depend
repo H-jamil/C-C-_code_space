@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530324216 source:/home/jamil/Documents/Codes/CodeBlocks/nestedStructureWithpointer/main.cpp
+	<iostream>
+	<string>
+

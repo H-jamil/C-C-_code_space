@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538559321 source:/home/jamil/Documents/Codes/CodeBlocks/sortedlinkedlisttest/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529280893 source:/home/jamil/Documents/Codes/CodeBlocks/function_pointer/main.c
+	<stdio.h>
+	<stdlib.h>
+

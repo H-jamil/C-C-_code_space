@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530316942 source:/home/jamil/Documents/Codes/CodeBlocks/oop_intro/main.cpp
+	<iostream>
+	<string>
+

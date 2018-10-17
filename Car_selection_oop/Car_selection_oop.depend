@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1533330574 source:/home/jamil/Documents/Codes/CodeBlocks/Car_selection_oop/car.cc
+	"car.h"
+
+1533331154 /home/jamil/Documents/Codes/CodeBlocks/Car_selection_oop/car.h
+	<iostream>
+
+1533330427 source:/home/jamil/Documents/Codes/CodeBlocks/Car_selection_oop/main.cpp
+	<iostream>
+	"car.h"
+

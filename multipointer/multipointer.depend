@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529272828 source:/home/jamil/Documents/Codes/CodeBlocks/multipointer/main.c
+	<stdio.h>
+	<stdlib.h>
+

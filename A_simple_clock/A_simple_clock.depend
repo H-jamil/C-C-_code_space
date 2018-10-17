@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1533675238 source:/home/jamil/Documents/Codes/CodeBlocks/A_simple_clock/main.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+
+1533674452 /home/jamil/Documents/Codes/CodeBlocks/A_simple_clock/Time.h
+
+1533674680 source:/home/jamil/Documents/Codes/CodeBlocks/A_simple_clock/Time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+

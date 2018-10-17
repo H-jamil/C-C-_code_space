@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1533743366 source:/home/jamil/Documents/Codes/CodeBlocks/author_book_class/Author.cpp
+	<iostream>
+	"Author.h"
+
+1533743363 /home/jamil/Documents/Codes/CodeBlocks/author_book_class/Author.h
+	<string>
+
+1533743372 source:/home/jamil/Documents/Codes/CodeBlocks/author_book_class/Book.cpp
+	<iostream>
+	"Book.h"
+
+1533743369 /home/jamil/Documents/Codes/CodeBlocks/author_book_class/Book.h
+	<string>
+	"Author.h"
+
+1533739169 source:/home/jamil/Documents/Codes/CodeBlocks/author_book_class/main.cpp
+	<iostream>
+	"Book.h"
+	"Author.h"
+

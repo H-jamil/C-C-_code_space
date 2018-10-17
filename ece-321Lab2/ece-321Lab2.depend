@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537592423 source:/home/jamil/OneDrive/Fall 18/intro to software engineering/lab sessions/1st lab/gates.c
+	"gates.h"
+
+1537592473 /home/jamil/OneDrive/Fall 18/intro to software engineering/lab sessions/1st lab/gates.h
+	<stdio.h>
+	<stdbool.h>
+

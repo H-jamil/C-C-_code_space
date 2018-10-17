@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1537597274 source:/home/jamil/Documents/Codes/CodeBlocks/gateSimulation/gates.c
+	"gates.h"
+
+1537672518 /home/jamil/Documents/Codes/CodeBlocks/gateSimulation/gates.h
+	<stdio.h>
+	<stdbool.h>
+
+1537678965 source:/home/jamil/Documents/Codes/CodeBlocks/gateSimulation/main.c
+	<stdio.h>
+	<stdlib.h>
+	"gates.h"
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ece-321Lab2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ece-321Lab2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ece-321Lab2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../../../OneDrive/Fall 18/intro to software engineering/lab sessions/1st lab/gates.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../OneDrive/Fall 18/intro to software engineering/lab sessions/1st lab/gates.h" />
+		<Unit filename="../../../../OneDrive/Fall 18/intro to software engineering/lab sessions/2nd Folder/logic simulator circuit n.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gates.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gates.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

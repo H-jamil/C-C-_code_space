@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539843892 source:/home/jamil/Documents/Codes/CodeBlocks/stack_exercise/main.c
+	<stdio.h>
+	<stdlib.h>
+

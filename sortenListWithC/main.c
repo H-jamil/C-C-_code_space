@@ -73,9 +73,6 @@ else{
     current->next=n;
    }
 
-
-
-
 }
 
 void slistPrint(slist *sl){

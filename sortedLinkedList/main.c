@@ -31,16 +31,20 @@ void slInit(slist * qp){
 
 
 void slInsert (slist * lp, int t){
+
+
         ListNode * n = (ListNode *) malloc(sizeof(ListNode));
         if (n == NULL) {
         printf("Out of memory\n");
         exit(1);
         }
         n->data = t;
-        while (*lp != NULL && (*lp)->data < t)
+        while (*lp != NULL && (**lp).data < t)
         lp = &((*lp)->next);
+        printf("%d\n",lp);
         n->next = *lp;
         *lp = n;
+        printf("%d\n",&((*lp)->next));
         }
 
         void slPrint (slist *lp){

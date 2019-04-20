@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539908954 source:/home/jamil/Documents/Codes/CodeBlocks/sortenListWithC/main.c
+	<stdio.h>
+	<stdlib.h>
+
